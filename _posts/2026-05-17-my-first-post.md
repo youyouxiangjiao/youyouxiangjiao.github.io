@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "奥斯陆博物馆钱币讲解"
-date:   2026-05-18
+date:   2026-05-17
 categories: [history, coin]
 tags: [numismatics, oslo, museum]
 ---
